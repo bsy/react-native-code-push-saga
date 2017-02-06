@@ -19,8 +19,8 @@
     "url": "https://github.com/lostintangent/react-native-code-push-saga"
   },
   "peerDependencies": {
-    "react-native": "*",
-    "react-native-code-push": "*",
-    "redux-saga": "*"
+    "react-native": ">= 0.29",
+    "react-native-code-push": ">= v1.14.4-beta",
+    "redux-saga": ">= v0.13.0"
   }
 }
